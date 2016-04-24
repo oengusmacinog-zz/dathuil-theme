@@ -1,0 +1,48 @@
+Dathuil Theme for Sublime Text 3
+
+For more information on the Material Theme: https://github.com/oengusmacinog/dathuil-theme
+
+**********************************************************************************************
+
+Add the following to your Settings - User file and restart Sublime Text after:
+
+{
+  "theme": "Dathuil-Theme.sublime-theme",
+  "color_scheme": "Packages/Dathuil Theme/schemes/Dathuil-Theme.tmTheme",
+}
+
+**********************************************************************************************
+
+Recommended UI and font settings for a better experience:
+
+{
+  "overlay_scroll_bars": "enabled",
+  "line_padding_top": 3,
+  "line_padding_bottom": 3,
+  "always_show_minimap_viewport": true,
+  "bold_folder_labels": true,
+  "indent_guide_options": [ "draw_normal", "draw_active" ],   // Highlight active indent
+  "font_options": [ "gray_antialias" ],                       // For retina Mac
+}
+
+**********************************************************************************************
+
+Other available theme options:
+
+"dathuil_theme_small_tab"                : true , // Set small tabs
+"dathuil_theme_disable_fileicons"        : true , // Hide siderbar file type icons
+"dathuil_theme_disable_folder_animation" : true , // Disable folder animation
+"dathuil_theme_small_statusbar"          : true , // Set small status bar
+"dathuil_theme_compact_sidebar"          : true , // Set compact sidebar
+"dathuil_theme_disable_tree_indicator"   : true , // Disable sidebar file indicator
+"dathuil_theme_bold_tab"                 : true , // Make the tab labels bolder
+"dathuil_theme_tabs_separator"           : true , // Show tabs separator, this disables tab hover animation
+"dathuil_theme_accent_lime"              : true , // set green lime accent color
+"dathuil_theme_accent_purple"            : true , // set purple accent color
+"dathuil_theme_accent_red"               : true , // set pale red accent color
+"dathuil_theme_accent_orange"            : true , // set orange accent color
+"dathuil_theme_accent_yellow"            : true , // set yellow accent color
+"dathuil_theme_accent_indigo"            : true , // set indigo accent color
+"dathuil_theme_panel_separator"          : true , // show bottom panel separator
+"dathuil_theme_tabs_autowidth"           : true , // Enable autowidth for tabs
+"dathuil_theme_contrast_mode"            : true , // Enable sidebar and panels contrast mode

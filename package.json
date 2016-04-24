@@ -1,0 +1,39 @@
+{
+  "name": "init",
+  "version": "0.0.3",
+  "description": "Dathuil Theme for Sublime Text 3",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat-json": "^1.0.0",
+    "gulp-concat-json2js": "^0.1.0",
+    "gulp-duration": "0.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-wrap": "^0.11.0",
+    "path": "^0.11.14",
+    "run-sequence": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://oengusmacinog@github.com/oengusmacinog/dathuil-theme.git"
+  },
+  "keywords": [
+    "dathuil",
+    "theme",
+    "sublime",
+    "text",
+    "design"
+  ],
+  "author": "oengusmacinog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oengusmacinog/dathuil-theme/issues"
+  },
+  "homepage": "https://github.com/oengusmacinog/dathuil-theme#readme"
+}
