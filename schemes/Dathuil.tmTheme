@@ -118,7 +118,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#009</string>
+                <string>#fb8419</string>
             </dict>
         </dict>
 
@@ -372,7 +372,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <!-- <string>#603F80</string> -->
+                <!-- <string>#5c5caf</string> -->
                 <string>#f0516f</string>
             </dict>
         </dict>
@@ -1283,13 +1283,31 @@
         </dict>
 
         <!-- echo / array & related -->
-        <dict>
+        <!-- <dict>
             <key>scope</key>
             <string>support.function.construct.php, support.function.array.php, meta.function-call.php</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
                 <string>#603F80</string>
+            </dict>
+        </dict> -->
+        <dict>
+            <key>scope</key>
+            <string>support.function.construct.php, support.function.array.php</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5c5caf</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>scope</key>
+            <string>meta.function-call.php</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d9d126</string>
             </dict>
         </dict>
         <dict>
@@ -1764,7 +1782,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#603F80</string>
+                <string>#5c5caf</string>
             </dict>
         </dict>
 
@@ -3756,7 +3774,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#603F80</string>
+                <string>#5c5caf</string>
             </dict>
         </dict>
         <dict>
@@ -3778,7 +3796,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#66828E</string>
+                <string>#900</string>
             </dict>
         </dict>
         <dict>
@@ -3871,8 +3889,8 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#603F80</string>
-                <!-- <string>#603F80</string> -->
+                <string>#5c5caf</string>
+                <!-- <string>#5c5caf</string> -->
             </dict>
         </dict>
         <dict>
@@ -4340,7 +4358,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#66828E</string>
+                <string>#900</string>
             </dict>
         </dict>
         <dict>
@@ -4445,7 +4463,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#66828E</string>
+                <string>#900</string>
             </dict>
         </dict>
 
@@ -4458,7 +4476,7 @@
                 <key>fontStyle</key>
                 <string>bold italic</string>
                 <key>foreground</key>
-                <string>#66828E</string>
+                <string>#900</string>
                 <key>background</key>
                 <string>#151718</string>
             </dict>
@@ -4747,7 +4765,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#66828E</string>
+                <string>#900</string>
             </dict>
         </dict>
         <dict>
@@ -4817,7 +4835,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#603F80</string>
+                <string>#5c5caf</string>
             </dict>
         </dict>
         <dict>
